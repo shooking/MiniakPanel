@@ -30,5 +30,5 @@ I never got to decode multi's.
 ## MicronMiniakDifferences
 
 There was a lot of debate concerning if Micron / Miniak were "better".
-This folder presents the differences. So for sure - where a patch has different parameters then likely it is different.
+This folder presents the [differences](./MicronMiniakDifferences/micron_v_miniak_diffs.html). So for sure - where a patch has different parameters then likely it is different.
 Mostly it is the X Y Z controls that differ.
